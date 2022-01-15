@@ -1,11 +1,11 @@
 {
-  "name": "TELEROID RENAMER BOT",
+  "name": "METAVERSE RENAMER BOT",
   "description": "",
   "keywords": [
     "Rename"
   ],
-  "success_url": "https://t.me/TeleRoid_RENAMER_BOT",
-  "website": "https://github.com/P-Phreak",
+  "success_url": "https://t.me/MetaverseRename_Bot",
+  "website": "https://github.com/ayusharyanisgod",
   "repository": "https://github.com/ayusharyanisgod/RENAMER-BOT",
   "env": {
     "WEBHOOK": {
