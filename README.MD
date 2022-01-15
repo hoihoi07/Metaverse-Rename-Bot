@@ -1,15 +1,4 @@
-### 🌀 One of Best renamer bot repo
-
-**Please Give a ☆ if You like This Open Source and Don't Forget to Follow Me On Github For More Repos And Codes.**
-
-```
-Scrapped some code from @SpEcHIDe's AnyDLBot Repository
-Please fork this repository don't import code
-Made with Python3
-(C) @TheTeleRoid
-Copyright permission under GNU General Public License v3.0
-License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
-```
+### Metaverse-Rename-Bot
 
 ### Variables
 
@@ -28,10 +17,6 @@ License -> https://github.com/PredatorHackerzZ/RENAMER-BOT/blob/master/LICENSE
 * sthumbnail -  🌌  Current Thumbnail
 * dthumbnail -  🎇  Delete thumbnail
 
-
-### Video For how to  deploy to heroku. 
-
-[CLICK HERE FOR WATCHING THE TUTORIAL VIDEO](https://www.youtube.com/watch?v=2FHgg8o1YY8) 
 
 ### Deploy To Heroku. 
 
