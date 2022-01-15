@@ -6,7 +6,7 @@
   ],
   "success_url": "https://t.me/MetaverseRename_Bot",
   "website": "https://github.com/ayusharyanisgod",
-  "repository": "https://github.com/ayusharyanisgod/RENAMER-BOT",
+  "repository": "https://github.com/ayusharyanisgod/Metaverse-Rename-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
