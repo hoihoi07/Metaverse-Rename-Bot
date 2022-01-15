@@ -1,5 +1,11 @@
 ## Metaverse-Rename-Bot
 
+### Deploy To Heroku. 
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/ayusharyanisgod/Metaverse-Rename-Bot/)
+
+##
+
 ### Variables
 
 * `API_HASH` Your API Hash from my.telegram.org
@@ -18,12 +24,6 @@
 * convert -  🔄  Convert file to video
 * sthumbnail -  🌌  Current Thumbnail
 * dthumbnail -  🎇  Delete thumbnail
-
-##
-
-### Deploy To Heroku. 
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/ayusharyanisgod/Metaverse-Rename-Bot/)
 
 ##
 
