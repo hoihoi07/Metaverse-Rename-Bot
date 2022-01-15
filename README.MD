@@ -9,6 +9,8 @@
 * `UPDATE_GROUP` Support group username without '@' for help & support
 * `UPDATE_CHANNEL` Updates channel username without '@' for force subscription
 
+##
+
 ### BOT COMMANDS
 
 * start -  👻  Check I'm alive or dead
@@ -17,13 +19,17 @@
 * sthumbnail -  🌌  Current Thumbnail
 * dthumbnail -  🎇  Delete thumbnail
 
+##
 
 ### Deploy To Heroku. 
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/ayusharyanisgod/Metaverse-Rename-Bot/)
 
+##
 
 ### Credits
 
 * [Pyrogram](https://github.com/pyrogram/pyrogram)
 * [Clinton Abraham](https://github.com/Clinton-Abraham)
+
+##
