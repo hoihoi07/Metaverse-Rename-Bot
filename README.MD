@@ -1,4 +1,4 @@
-### Metaverse-Rename-Bot
+## Metaverse-Rename-Bot
 
 ### Variables
 
