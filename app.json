@@ -26,7 +26,7 @@
     },
     "AUTH_USERS": {
       "description": "allow only pre-defined users to use this bot",
-      "value": ""
+      "value": "930609632"
     },
     "BANNED_USERS": {
       "description": "Banned Unwanted members..",
@@ -35,11 +35,11 @@
     },
     "UPDATE_GROUP": {
       "description": "Your Support Group USERNAME (without @)..",
-      "value": "TeleRoid14"
+      "value": "MetaverseNetwork"
     },
      "UPDATE_CHANNEL": {
       "description": "For Force Subscribe. Don't Change it😎..",
-      "value": "MoviesFlixers_DL"
+      "value": "MetaverseNetwork"
     },
     "CHUNK_SIZE": {
       "description": "chunk size that should be used with requests",
