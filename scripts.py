@@ -25,13 +25,13 @@ class Scripted(object):
     ABOUT_TEXT = """
 ╭────[🔅Rᴇɴᴀᴍᴇʀ Bᴏᴛ🔅]───⍟
 │
-├<b>🤖 Bot Name : <a href='https://t.me/MetaverseRename_Bot'>Metaverse Rename Bot</a></b>
+├<b>🤖 Bot Name : <a href='https://t.me/@jet_gbmax_bot'>Jetbots Gbmax Bot</a></b>
 │
-├<b>📢 Channel : <a href='https://t.me/MetaverseNetwork'>𝐌𝐄𝐓𝐀𝐕𝐄𝐑𝐒𝐄 𝐍𝐄𝐓𝐖𝐎𝐑𝐊</a></b>
+├<b>📢 Channel : <a href='https://t.me/jetbots'>Jetbots</a></b>
 │
-├<b>👥 Version : <a href='https://t.me/MetaverseNetwork'>0.9.2 beta</a></b>
+├<b>👥 Version : <a href='https://t.me/Jetbots'>0.9.2 beta</a></b>
 │
-├<b>💢 Source : <a href='https://t.me/MetaverseNetwork'>Click Here</a></b>
+├<b>💢 Source : <a href='https://t.me/jettastic'>Click Here</a></b>
 │
 ├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
 │
@@ -39,9 +39,9 @@ class Scripted(object):
 │
 ├<b>㊙ Language: <a href='https://www.python.org'>Python 3.9.4</a></b>
 │
-├<b>👨‍💻 Developer : <a href='https://t.me/MetaverseNetwork'>𝐌𝐄𝐓𝐀𝐕𝐄𝐑𝐒𝐄 𝐍𝐄𝐓𝐖𝐎𝐑𝐊</a></b>
+├<b>👨‍💻 Developer : <a href='https://t.me/Jettastic'>jettastic</a></b>
 │
-├<b>🚸 Powered By : <a href='https://t.me/MetaverseNetwork'>𝐌𝐄𝐓𝐀𝐕𝐄𝐑𝐒𝐄 𝐍𝐄𝐓𝐖𝐎𝐑𝐊</a></b>
+├<b>🚸 Powered By : <a href='https://t.me/Jetbots'>Jetbots</a></b>
 │
 ╰──────[Thanks 😊]───⍟"""
 
@@ -54,12 +54,12 @@ class Scripted(object):
     THUMBNAIL_DELETED = "<i>𝐘𝐨𝐮𝐫 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐃𝐞𝐥𝐞𝐭𝐞𝐝 ✅</i>"
     NO_THUMBNAIL_FOUND = "<i>𝐍𝐨 𝐓𝐡𝐮𝐦𝐛𝐧𝐚𝐢𝐥 𝐅𝐨𝐮𝐧𝐝 (Konsi Goals Chahiye)😔</i>"
     TRYING_TO_DOWNLOAD = "<i>Trying to Download....</i>"
-    UPLOAD_SUCCESS = "<u><i>Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ ᴍᴇ❤ Join @MetaverseNetwork</i></u>"
+    UPLOAD_SUCCESS = "<u><i>Tʜᴀɴᴋs Fᴏʀ Usɪɴɢ ᴍᴇ❤ Join @jetbots</i></u>"
     REPLY_TO_MEDIA = "<i>Reply to Media For Converting with Command /convert</i>"
     UPLOAD_START = "<i>📤 Uploading Your File Please wait...</i>\n"
     DOWNLOAD_START = "<i>📥 Downloading Your File Please wait...</i>\n"
     JOIN_NOW_TEXT = "<code>First Join My Updates Channel to Use Me</code>"
     REPLY_TO_FILE = "<i>Reply to that media with /rename new name .ext</i>"
-    CONTACT_MY_DEVELOPER = "<i>Something Wrong Contact in Support Bot @MetaverseNetworkBot 😑</i>"
+    CONTACT_MY_DEVELOPER = "<i>Something Wrong Contact in Support Group @jetbots_support 😑</i>"
     START_TEXT = "<i>This is a Fastest File Renamer and Converter Bot With Permanant Thumbnail Support💯</i>"
     UPGRADE_TEXT = "<b>This Service is Not Available</b>"
