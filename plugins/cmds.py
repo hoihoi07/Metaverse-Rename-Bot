@@ -34,8 +34,8 @@ async def start(bot, update):
           disable_web_page_preview=True,
           reply_markup=InlineKeyboardMarkup( [ [ InlineKeyboardButton(text='⭕ Cʜᴀɴɴᴇʟ ⭕', url=f'https://t.me/{Config.UPDATE_CHANNEL}'),
                                                  InlineKeyboardButton(text='⭕ Sᴜᴘᴘᴏʀᴛ ⭕', url=f'https://t.me/{Config.UPDATE_GROUP}') ],
-                                               [ InlineKeyboardButton(text='👮 DᴇvᴇlopᴇR', url='https://t.me/MetaverseNetwork'),
-                                                 InlineKeyboardButton(text='🚸 Pᴏweʀᴇd By', url='https://t.me/MetaverseNetwork') ],
+                                               [ InlineKeyboardButton(text='👮 DᴇvᴇlopᴇR', url='https://t.me/jettastic'),
+                                                 InlineKeyboardButton(text='🚸 Pᴏweʀᴇd By', url='https://t.me/jetbots') ],
                                                [ InlineKeyboardButton(text='🔐 Cʟᴏꜱᴇ 🔐', callback_data='DM') ] ] ) )
 
 
