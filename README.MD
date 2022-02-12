@@ -2,7 +2,7 @@
 
 ### Deploy To Heroku. 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/ayusharyanisgod/Metaverse-Rename-Bot/)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy?template=https://github.com/hoihoi07/Metaverse-Rename-Bot/)
 
 ##
 
