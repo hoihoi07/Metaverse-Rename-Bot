@@ -25,13 +25,13 @@ class Scripted(object):
     ABOUT_TEXT = """
 ╭────[🔅Rᴇɴᴀᴍᴇʀ Bᴏᴛ🔅]───⍟
 │
-├<b>🤖 Bot Name : <a href='https://t.me/@jet_gbmax_bot'>Jetbots Gbmax Bot</a></b>
+├<b>🤖 Bot Name : <a href='https://t.me/@jet_kaku_bot'>Kaku Rename Bot</a></b>
 │
 ├<b>📢 Channel : <a href='https://t.me/jetbots'>Jetbots</a></b>
 │
 ├<b>👥 Version : <a href='https://t.me/Jetbots'>0.9.2 beta</a></b>
 │
-├<b>💢 Source : <a href='https://t.me/jettastic'>Click Here</a></b>
+├<b>💢 Bots Llst : <a href='https://t.me/jetbots/26'>All Bots</a></b>
 │
 ├<b>🌐 Server : <a href='https://heroku.com'>Heroku</a></b>
 │
